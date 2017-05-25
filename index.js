@@ -234,7 +234,7 @@ AudioSprite.prototype.input = function( stream, options, callback ) {
 				setTimeout( cb, 10 );
 			},
 			function( cb ) {
-				if (!options.autoplay) {
+				if (options.autoplay) {
 					that._json.autoplay = options.name;
 				}
 
