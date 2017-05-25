@@ -1,7 +1,7 @@
 {
   "name": "audiosprite-pkg",
-  "version": "1.1.1",
-  "description": "Concat small audio files into single file and export in many formats.",
+  "version": "1.1.1r2",
+  "description": "Concat small audio files into single file and export in many formats. Forked from peteward44 tool.",
   "keywords": [
     "audio",
     "audio-sprite",
@@ -11,7 +11,7 @@
   "homepage": "https://github.com/peteward44/audiosprite-pkg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peteward44/audiosprite-pkg.git"
+    "url": "https://github.com/benbrummitt/audiosprite-pkg.git"
   },
   "author": "Pete Ward <peteward44@gmail.com>",
   "main": "./index.js",
